@@ -1,0 +1,11 @@
+{
+  "name": "redwolf_4keydir",
+  "vendorProductId": 4276944896,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    ["KC_1", "KC_2", "KC_P7", "KC_P5"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+    ["0x2b2a", "KC_ENT", "KC_NO", "KC_NO"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO"]
+  ]
+}
