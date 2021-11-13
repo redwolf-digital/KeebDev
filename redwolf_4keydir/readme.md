@@ -1,7 +1,5 @@
 # redwolf_4keydir
 
-![redwolf_4keydir](imgur.com image replace me!)
-
 *A short description of the keyboard/project*
 
 * Keyboard Maintainer: [Wolfnest-Studio](https://github.com/Wolfnest-Studio)
