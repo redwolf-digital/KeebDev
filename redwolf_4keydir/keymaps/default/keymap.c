@@ -1,4 +1,4 @@
-// Copyright 2021 Wolfnest-Studio (@Wolfnest-Studio)
+// Copyright 2021 redwolf-digital (@redwolf-digital)
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 #include QMK_KEYBOARD_H
