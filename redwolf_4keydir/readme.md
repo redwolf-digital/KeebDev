@@ -2,7 +2,7 @@
 
 *A short description of the keyboard/project*
 
-* Keyboard Maintainer: [Wolfnest-Studio](https://github.com/Wolfnest-Studio)
+* Keyboard Maintainer: [redwolf-digital](https://github.com/redwolf-digital)
 * Hardware Supported: *The PCBs, controllers supported*
 * Hardware Availability: *Links to where you can find this hardware*
 
