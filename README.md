@@ -12,6 +12,9 @@ ver 1.0
     - SK6812  
 ## Schematic
 ![](image/2KeyKeeb.png)
+  
+## Dimension
+![](image/dimension.png)
 
 ## Image
 ![](image/2KeyKeeb_render.jpg)
